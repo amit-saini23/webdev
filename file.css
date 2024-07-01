@@ -41,22 +41,18 @@ h2{
 	text-align:center;
 }
 
+
+.pic img{
+	width:400px;
+	border-radius:50px;
+	/*border: 2px solidline black;*/
 }
 p{
-	text-align:center;
+	text-align: center;
 	font-size:20px;
 }
-.pic img{
+	
 
-	width:400px;
-	/*border: 2px solidline black;
-	border-radius:4px 4px;*/
-
-
-}
-p{
-	text-align:center;
-}
 
 
 section{
